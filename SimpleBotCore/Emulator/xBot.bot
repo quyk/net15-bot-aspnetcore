@@ -1,0 +1,18 @@
+{
+    "name": "xBot",
+    "description": "",
+    "services": [
+        {
+            "type": "endpoint",
+            "appId": "",
+            "appPassword": "",
+            "endpoint": "http://localhost:3978/api/messages",
+            "id": "e1932c10-87e5-11e9-94e3-018f3aed369f",
+            "name": "http://localhost:3978/api/messages"
+        }
+    ],
+    "padlock": "",
+    "version": "2.0",
+    "overrides": null,
+    "path": "C:\\Users\\logonrmlocal\\source\\repos\\net15-bot-aspnetcore\\SimpleBotCore\\Emulator\\xBot.bot"
+}
